@@ -1,4 +1,5 @@
 # How to resolve a merge conflict
+Additions can sometimes create conflicts even if they do not change any line that another branch had changed.
 In this example project you can demonstrate how to resolve a merge conflict.
 
 # Goal
