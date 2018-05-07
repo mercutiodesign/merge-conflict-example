@@ -1,11 +1,9 @@
-# How to resolve a merge conflict
-Additions can sometimes create conflicts even if they do not change any line that another branch had changed.
-In this example project you can demonstrate how to resolve a merge conflict.
-
 # How to resolve a merge conflict without losing data
 In this example project you can demonstrate how to resolve a merge conflict.
 It's important that no useful change is lost during the merge.
-
+Additions can sometimes create conflicts even if they do not change any line that another branch had changed.
+In this example project you can demonstrate how to resolve a merge conflict.
+ 
 # Goal
 Merge the conflicting branches `change` and `addition` into this master branch.
 
